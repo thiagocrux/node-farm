@@ -38,9 +38,9 @@ In the browser you can access on `localhost:8000`
 
 ## :camera: Screenshots
 
-<img src="https://user-images.githubusercontent.com/29850573/109401279-857cc280-792c-11eb-8315-dfcb4b1d3ce8.png">
+![screenshot-1](https://user-images.githubusercontent.com/29850573/109401279-857cc280-792c-11eb-8315-dfcb4b1d3ce8.png)
 
-<img src="https://user-images.githubusercontent.com/29850573/109401242-523a3380-792c-11eb-88cd-9d3f8aeb1d31.png">
+![screenshot-2](https://user-images.githubusercontent.com/29850573/109401242-523a3380-792c-11eb-88cd-9d3f8aeb1d31.png)
 
 ## :alarm_clock: Status
 
